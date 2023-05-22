@@ -1,0 +1,40 @@
+*{
+    text-align: center;
+    font-size: 30px;
+    background-color: aqua;
+    color: rgb(115, 25, 137);
+  }
+  .lor-class{
+    background-color: burlywood;
+  }
+  .baslik2{
+    border-top: 4px solid gold;
+    margin-top: 5rem;
+    margin-right: 3rem;
+    background-color: rgb(216, 130, 130);
+    margin: 50px;
+    padding: 2rem 1rem 3rem 6rem;
+  }
+  .baslik3{
+    border: 4px dotted orangered ;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+  }
+  .baslik4{
+    border: 15px dashed;
+    background-color: orange;
+    text-transform: uppercase;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+  }
+  .baslik1{
+    border-top: 3px solid green;
+    border-bottom: 3px solid pink ;
+  }
+
